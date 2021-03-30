@@ -7,8 +7,3 @@ permalink: /docs/01-participants
 ---
 
 # 参与教师
-
-Test this
-
-
-blah
